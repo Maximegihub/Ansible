@@ -1,1 +1,1 @@
-#  Repo Ansible comprenant des script effectué en formation
+#  Repo Ansible comprenant des scripts effectués en formation
